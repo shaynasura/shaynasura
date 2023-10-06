@@ -1,8 +1,7 @@
 ## Shayna Sura, PhD
 
-### Postdoctoral Scholar
-### Gulf Ecosystem Initiative
-### National Center for Ecological Analysis and Synthesis (NCEAS)
+#### Postdoctoral Scholar
+#### National Center for Ecological Analysis and Synthesis (NCEAS)
 
 pronouns: she/her/hers  
 email: [sura@nceas.ucsb.edu](mailto:sura@nceas.ucsb.edu)
